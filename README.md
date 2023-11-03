@@ -12,5 +12,6 @@ oppure Python (come descritto nel cap. "Interagire con l'ambiente").
 Per installare Quadretto:
 1) scaricare il file quadretto.zip
 2) decomprimere il file in una generica cartella
-3) eseguire l'applicazione \quadretto\bin\quadretto.exe
+3) eseguire l'applicazione \quadretto\bin\quadretto.exe \
+
 Una sommaria descrizione del programma e' riportata nel file quadretto.pdf presente nella cartella quadretto\bin
