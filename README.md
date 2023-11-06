@@ -14,4 +14,5 @@ Per installare Quadretto:
 2) decomprimere il file in una generica cartella
 3) eseguire l'applicazione \quadretto\bin\quadretto.exe \
 
-Una sommaria descrizione del programma e' riportata nel file quadretto.pdf presente nella cartella quadretto\bin
+Una sommaria descrizione del programma e' riportata nel file quadretto.pdf presente nella cartella quadretto\bin.
+Gli algoritmi ed altre informazioni sono riportate nella dispensa CodingLinguaggioRobotica.pdf
